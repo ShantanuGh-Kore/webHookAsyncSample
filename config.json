@@ -7,8 +7,15 @@
         "url": "http://localhost"
     },
     "credentials": {
-        "apikey": "XXXXXXXXXXX",
-        "appId": "cs-XXXXXXXXXX"
+        "apikey": "muRC/GQHrVWbvcEl4DGrWx8ZaueOXhPVV7lHmjvySbo=",
+        "appId": "cs-2c1fe258-53e7-5163-b292-a2cca5daf936",
+        "botId" : "st-ead33cbc-bcd7-5c42-a6c0-99a953189077",
+        "botName" : "st-ead33cbc-bcd7-5c42-a6c0-99a953189077"
+    },
+    "twilioId": {
+        "accountSid" : "ACdc2915b1d4e5d087cafec37dedc07cd6",
+        "authToken" :"231af697098494f333383e6c03d8fb9f",
+        "messagingServiceSid" : "MG86f2da6572094b47b1ea137a7244c2b9"
     },
     "redis": {
         "options": {
@@ -18,5 +25,5 @@
         "available": true
     },
     "supportsMessageAck": true,
-    "languages":["en","de"]
+    "languages":["en"]
 }
