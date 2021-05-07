@@ -73,7 +73,7 @@
     "through": "^2.3.8",
     "twilio": "^3.48.0",
     "type-is": "^1.6.18",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "unpipe": "^1.0.0",
     "utils-merge": "^1.0.1",
     "validator": "^13.1.1",
